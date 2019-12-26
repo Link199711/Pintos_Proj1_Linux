@@ -1,0 +1,10 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "algorithm": "c",
+        "__mutex_base": "c",
+        "memory": "c",
+        "mutex": "c"
+    }
+}
